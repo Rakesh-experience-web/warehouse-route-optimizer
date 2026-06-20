@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Warehouse Route Optimizer
 
 A production-capable warehouse order batching and route optimization platform with a React frontend, FastAPI backend, and research-focused experiment harness.
