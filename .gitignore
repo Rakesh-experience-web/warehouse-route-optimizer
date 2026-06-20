@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+backend/.pytest_cache/
+backend/artifacts/
+frontend/node_modules/
+frontend/dist/
+.env
+
+# Local and generated files
+artifacts/
+*.log
+.vscode/
+.idea/
+
